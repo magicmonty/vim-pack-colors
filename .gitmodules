@@ -6,3 +6,11 @@
 	path = opt/vim-colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
   ignore = dirty
+[submodule "opt/vim-colors-basic"]
+	path = opt/vim-colors-basic
+	url = https://github.com/zcodes/vim-colors-basic.git
+  ignore = dirty
+[submodule "opt/vim-code-dark"]
+	path = opt/vim-code-dark
+	url = https://github.com/tomasiser/vim-code-dark.git
+  ignore = dirty
