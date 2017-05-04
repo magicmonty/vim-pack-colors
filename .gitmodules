@@ -14,3 +14,7 @@
 	path = opt/vim-code-dark
 	url = https://github.com/tomasiser/vim-code-dark.git
   ignore = dirty
+[submodule "start/gruvbox"]
+	path = start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+  ignore = dirty
